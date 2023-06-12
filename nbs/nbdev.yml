@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://dbkinghorn.github.io/nbdev-hello"
+  description: "A hello world test of nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/dbkinghorn/nbdev-hello"
