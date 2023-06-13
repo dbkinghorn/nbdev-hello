@@ -13,10 +13,10 @@ pip install nbdev_hello
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+Use say_hello to print a greeting to someone:
 
 ``` python
-1+1
+say_hello("World")
 ```
 
-    2
+    'Hello World!'

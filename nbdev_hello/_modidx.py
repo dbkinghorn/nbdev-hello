@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://dbkinghorn.github.io',
                 'git_url': 'https://github.com/dbkinghorn/nbdev-hello',
                 'lib_path': 'nbdev_hello'},
-  'syms': {'nbdev_hello.core': {'nbdev_hello.core.foo': ('core.html#foo', 'nbdev_hello/core.py')}}}
+  'syms': {'nbdev_hello.main': {'nbdev_hello.main.say_hello': ('main.html#say_hello', 'nbdev_hello/main.py')}}}
